@@ -4,7 +4,7 @@
 PlayerSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 28
-  productGUID: b01b5466733708240b8c08b561dd444d
+  productGUID: 129676bae03479a4e8a08986eb19ba53
   AndroidProfiler: 0
   AndroidFilterTouchesWhenObscured: 0
   AndroidEnableSustainedPerformanceMode: 0
@@ -13,7 +13,7 @@ PlayerSettings:
   useOnDemandResources: 0
   accelerometerFrequency: 60
   companyName: DefaultCompany
-  productName: PlayerControl
+  productName: PlaneProject
   defaultCursor: {fileID: 0}
   cursorHotspot: {x: 0, y: 0}
   m_SplashScreenBackgroundColor: {r: 0.13725491, g: 0.12156863, b: 0.1254902, a: 1}
@@ -675,14 +675,14 @@ PlayerSettings:
   editorAssembliesCompatibilityLevel: 1
   m_RenderingPath: 1
   m_MobileRenderingPath: 1
-  metroPackageName: PlayerControl
+  metroPackageName: PlaneProject
   metroPackageVersion: 
   metroCertificatePath: 
   metroCertificatePassword: 
   metroCertificateSubject: 
   metroCertificateIssuer: 
   metroCertificateNotAfter: 0000000000000000
-  metroApplicationDescription: PlayerControl
+  metroApplicationDescription: PlaneProject
   wsaImages: {}
   metroTileShortName: 
   metroTileShowName: 0
@@ -752,12 +752,12 @@ PlayerSettings:
   qnxGraphicConfPath: 
   apiCompatibilityLevel: 6
   captureStartupLogs: {}
-  activeInputHandler: 2
+  activeInputHandler: 1
   windowsGamepadBackendHint: 0
-  cloudProjectId: 0bc6928a-db31-4963-a3a1-c2a65fa0ac1f
+  cloudProjectId: 807e0829-e5eb-4a71-9364-2b557b7b8325
   framebufferDepthMemorylessMode: 0
   qualitySettingsNames: []
-  projectName: PlayerControl
+  projectName: PlaneProject
   organizationId: felipemorelc
   cloudEnabled: 0
   legacyClampBlendShapeWeights: 0
